@@ -1,5 +1,10 @@
 # ResponsiveFoodAndRestaurantWebsiteUsingBootstrap
 
+[![HTML](https://img.shields.io/badge/HTML5-orange.svg)](https://shields.io/)
+[![CSS](https://img.shields.io/badge/CSS3-blue.svg)](https://shields.io/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet.svg)](https://shields.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is a simple static website template designed for a restaurant or cafe. It includes features like a navigation bar, sections for services, popular items, delivery information, and a call-to-action for reservations. The project is built with HTML, CSS, and Bootstrap.
 
 ## Table of Contents
